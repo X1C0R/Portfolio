@@ -5,10 +5,10 @@ function About(){
   return(
     <div id="about" className="sm:h-[90dvh] font-Source text-whitesentence bg-whitebg shadow-sm | xs:h-[110dvh]"> 
       <div className="flex flex-col items-center ">
-        <h1 className="text-whitetitle | sm:mt-15 sm:text-[30px] | xs:text-3xl xs:mt-10">About Me</h1>
+        <h1 className="text-whitetitle | sm:mt-15 sm:text-[1.875rem] | xs:text-3xl xs:mt-10">About Me</h1>
       </div>
-      <div className="flex flex-row gap-[10rem] p-5 items-center | sm:gap-[2rem] sm:flex sm:justify-center | xs:gap-[10px]">
-          <div className="flex flex-col | sm:text-[1rem] | xs:text-[10px]">
+      <div className="flex flex-row gap-[10rem] p-5 items-center | sm:gap-[2rem] sm:flex sm:justify-center | xs:gap-[0.625rem]">
+          <div className="flex flex-col | sm:text-[1rem] | xs:text-[0.625rem]">
              <p className="mb-6 ">
                 Hello! I'm Mark, a passionate Student of STI COLLEGE ALABANG. I enjoy creating things that <br/>
                 live on the internet, whether that be websites, applications, or anything in between.

@@ -32,20 +32,20 @@ function App() {
             </a>
           </div>
         </nav>
-        <div className="w-full text-Turquoise sm:flex sm:flex-row sm:items-center sm:mt-[60px] | sm:gap-[15rem] | xs:flex xs:flex-col xs:items-center xs:text-[16px] xs:mt-5">
+        <div className="w-full text-Turquoise sm:flex sm:flex-row sm:items-center sm:mt-[3.75rem] | sm:gap-[15rem] | xs:flex xs:flex-col xs:items-center xs:text-[1rem] xs:mt-5">
           <img
             src={mypfp}
             alt="mark"
             id="pfp"
             className="sm:w-[25%] sm:ml-15 | xs:w-[40%] border-4 border-white rounded-full"
           />
-          <div className="flex flex-col gap-1 | xs:flex xs:items-center xs:text-[15px]">
-            <p className="sm:text-[70px] | ">
+          <div className="flex flex-col gap-1 | xs:flex xs:items-center xs:text-[0.938rem]">
+            <p className="sm:text-[4.375rem] | ">
               HI, I'M<span className="text-electricpurple"> MARK LEMEN</span>
             </p>
             <p className="">Future BackEnd Developer.</p>
             <p className="">Dedicated Student of STI COLLEGE ALABANG.</p>
-            <div className="flex flex-row gap-5 | sm:text-[16px] sm:mt-1 | xs:text-[12px] ">
+            <div className="flex flex-row gap-5 | sm:text-[1rem] sm:mt-1 | xs:text-[0.75rem] ">
               <a
                 href="#projects"
                 className="border-1 p-2 rounded-lg hover:bg-white hover:text-whitetitleblack transition delay-100 ease-in-out "
