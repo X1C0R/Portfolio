@@ -32,24 +32,24 @@ const sendEmail = (e) => {
           <div className="text-Turquoise flex flex-col sm:gap-5 | xs:gap-2">
             <h1 className="font-semibold">Contact Information</h1>
             <div className="flex flex-row items-center gap-3">
-              <i class="fa-solid fa-location-dot"></i>
+              <i className="fa-solid fa-location-dot"></i>
               <p className="sm:text-[1rem]">
                 Block 7 Purok 14 South Daang Hari <br /> Taguig City
               </p>
             </div>
             <div className="flex flex-row items-center gap-3">
-              <i class="fa-solid fa-envelope"></i>
+              <i className="fa-solid fa-envelope"></i>
               <p className="sm:text-[1rem]">marklemin606@gmail.com</p>
             </div>
             <div className="flex flex-row items-center gap-3">
-              <i class="fa-solid fa-phone"></i>
+              <i className="fa-solid fa-phone"></i>
               <p className="sm:text-[1rem]">0927444483</p>
             </div>
             <div className="flex flex-col gap-2">
               <h1>Connect With Me</h1>
               <div className="flex flex-row gap-3">
-                <i class="fa-brands fa-github text-[1.313rem] border-1 border-gray rounded-full p-2 hover:bg-gray-800"></i>
-                <i class="fa-solid fa-envelope text-[1.313rem] border-1 border-gray rounded-full p-2  hover:bg-gray-800"></i>
+                <i className="fa-brands fa-github text-[1.313rem] border-1 border-gray rounded-full p-2 hover:bg-gray-800"></i>
+                <i className="fa-solid fa-envelope text-[1.313rem] border-1 border-gray rounded-full p-2  hover:bg-gray-800"></i>
               </div>
             </div>
           </div>

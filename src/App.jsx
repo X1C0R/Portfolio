@@ -56,13 +56,13 @@ function App() {
                 href="#contact"
                 className="border-1 p-2 rounded-lg  hover:bg-white hover:text-whitetitleblack transition delay-100 ease-in-out "
               >
-                <i class="fa-solid fa-envelope"></i> Contact me
+                <i className="fa-solid fa-envelope"></i> Contact me
               </a>
                 <a
                 href=""
                 className="border-1 p-2 rounded-lg  hover:bg-white hover:text-whitetitleblack transition delay-100 ease-in-out "
               >
-                <i class="fa-brands fa-github"></i> Github
+                <i className="fa-brands fa-github"></i> Github
               </a>
             </div>
           </div>

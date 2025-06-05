@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-function skills() {
+function Skills() {
   return (
     <>
       <div id="skills" className="bg-[#E5E5E5] font-Source | sm:h-[50dvh]">
@@ -67,7 +67,7 @@ function skills() {
               className="sm:flex sm:flex-col sm:w-fit rounded-lg bg-white border gap-1 border-[#FFFFFF] sm:p-[2.188rem] shadow-sm sm:h-fit sm:text-smtitle | xs:w-[80%] xs:p-[1.25rem] xs:h-fit xs:mt-0 "
             >
               <div className="flex flex-row items-center gap-2 w-fit text-[#0A0A0A]  | sm:text-smsentence sm:mb-1.5 sm:mt-[-0.625rem] |  xs:mb-2">
-                <i class="fa-solid fa-database"></i>
+                <i className="fa-solid fa-database"></i>
                 <h1 className="font-bold sm:text-smsentence">DataBase</h1>
               </div>
               <div className="grid grid-cols-2 place-contents-center gap-x-1 gap-y-1">
@@ -81,4 +81,4 @@ function skills() {
     </>
   );
 }
-export default skills;
+export default Skills;
