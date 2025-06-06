@@ -8,7 +8,7 @@ function Card() {
         <motion.div
           whileHover={{ scale: 1.05 }}
           transition={{ type: "spring", stiffness: 400, damping: 10 }}
-          className="flex flex-col border-2 sm:w-[15%] sm:h-fit items-center rounded-lg border-[grey] xs:w-fit xs:h-fit"
+          className="flex flex-col border-2 sm:w-[15%] sm:h-fit items-center rounded-lg border-[grey] xs:w-[7rem] xs:h-fit"
         >
           <img
             src={placeholder}
@@ -20,7 +20,7 @@ function Card() {
         <motion.div
           whileHover={{ scale: 1.05 }}
           transition={{ type: "spring", stiffness: 400, damping: 10 }}
-          className="flex flex-col border-2 sm:w-[15%] sm:h-fit items-center rounded-lg border-[grey] xs:w-fit xs:h-fit"
+          className="flex flex-col border-2 sm:w-[15%] sm:h-fit items-center rounded-lg border-[grey] xs:w-[7rem] xs:h-fit"
         >
           <img
             src={placeholder}
@@ -32,7 +32,7 @@ function Card() {
         <motion.div
           whileHover={{ scale: 1.05 }}
           transition={{ type: "spring", stiffness: 400, damping: 10 }}
-          className="flex flex-col border-2 sm:w-[15%] sm:h-fit items-center rounded-lg border-[grey] xs:w-fit xs:h-fit"
+          className="flex flex-col border-2 sm:w-[15%] sm:h-fit items-center rounded-lg border-[grey] xs:w-[7rem] xs:h-fit"
         >
           <img
             src={placeholder}
@@ -44,7 +44,7 @@ function Card() {
         <motion.div
           whileHover={{ scale: 1.05 }}
           transition={{ type: "spring", stiffness: 400, damping: 10 }}
-          className="flex flex-col border-2 sm:w-[15%] sm:h-fit items-center rounded-lg border-[grey] xs:w-fit xs:h-fit"
+          className="flex flex-col border-2 sm:w-[15%] sm:h-fit items-center rounded-lg border-[grey] xs:w-[7rem] xs:h-fit"
         >
           <img
             src={placeholder}
