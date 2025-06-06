@@ -1,7 +1,7 @@
 import { div } from "framer-motion/client";
 import Card from "./Card";
 
-function projects(){
+function Projects(){
   return(
     <div id="projects" className="font-Source bg-[#E5E5E5] p-0 | sm:mt-[-6.875rem] sm:h-[55dvh] sm:p-0.5 | xs:p-0.5">
         <div className="sm:w-full sm:flex sm:justify-center | xs:w-full xs:flex xs:justify-center">
@@ -14,4 +14,4 @@ function projects(){
   )
 }
 
-export default projects
+export default Projects
